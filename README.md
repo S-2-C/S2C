@@ -12,7 +12,7 @@ S2C is more than just a consulting company; we are a catalyst for positive trans
 
 ## Documentation & Resources
 
-For detailed documentation, project insights, and more information about our services and solutions, please visit our [Wiki](https://sites.google.com/tec.mx/s2c/). This Wiki serves as "The Single Repository of Truth," containing all official documentation and resources related to our work.
+For detailed documentation, project insights, and more information about our services and solutions, please visit our [Wiki](https://standing-phlox-cf3.notion.site/126460545f0646079ef3ef7dfeb56521?v=a6338cba7f7d470096e1ded9b5d2d0b4). This Wiki serves as "The Single Repository of Truth," containing all official documentation and resources related to our work.
 
 ---
 
